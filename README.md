@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
