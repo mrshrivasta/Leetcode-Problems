@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
