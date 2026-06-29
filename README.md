@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
