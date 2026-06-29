@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Trie
 |  |
 | ------- |
