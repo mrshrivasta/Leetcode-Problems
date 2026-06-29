@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0016-3sum-closest) |
 ## Trie
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
