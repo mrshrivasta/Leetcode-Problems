@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1001-grid-illumination) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0879-profitable-schemes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0879-profitable-schemes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1001-grid-illumination](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1001-grid-illumination) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Sliding Window
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
+| [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -277,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1000-minimum-cost-to-merge-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1000-minimum-cost-to-merge-stones) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
