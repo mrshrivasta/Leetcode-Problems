@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0135-candy) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
+| [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0952-largest-component-size-by-common-factor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0986-interval-list-intersections) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Trie
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0954-array-of-doubled-pairs) |
 ## Sorting
 |  |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0954-array-of-doubled-pairs) |
 ## Backtracking
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0946-validate-stack-sequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
@@ -366,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
