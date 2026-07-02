@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
