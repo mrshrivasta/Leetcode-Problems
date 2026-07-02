@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0966-vowel-spellchecker) |
 | [0978-longest-turbulent-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0966-vowel-spellchecker) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
+| [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 ## Recursion
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
+| [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 ## Graph Theory
 |  |
 | ------- |
