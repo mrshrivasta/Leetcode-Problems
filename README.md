@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0952-largest-component-size-by-common-factor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [0954-array-of-doubled-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0954-array-of-doubled-pairs) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0956-tallest-billboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0956-tallest-billboard) |
 | [0957-prison-cells-after-n-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0966-vowel-spellchecker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0966-vowel-spellchecker) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 ## Binary Search
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0954-array-of-doubled-pairs) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Sorting
 |  |
 | ------- |
