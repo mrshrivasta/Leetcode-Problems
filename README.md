@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
@@ -358,11 +360,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Union-Find
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
