@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
