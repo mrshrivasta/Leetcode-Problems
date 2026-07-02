@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bucket Sort
 |  |
