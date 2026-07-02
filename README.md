@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
 ## Graph Theory
 |  |
