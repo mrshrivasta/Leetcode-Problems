@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1267-count-servers-that-communicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
