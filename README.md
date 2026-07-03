@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1470-shuffle-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1191-k-concatenation-maximum-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1001-grid-illumination) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
