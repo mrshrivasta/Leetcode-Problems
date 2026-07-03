@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1222-queens-that-can-attack-the-king) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Counting
 |  |
 | ------- |
