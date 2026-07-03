@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0937-reorder-data-in-log-files](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0937-reorder-data-in-log-files) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
