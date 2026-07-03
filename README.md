@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1001-grid-illumination) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
+| [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sliding Window
 |  |
