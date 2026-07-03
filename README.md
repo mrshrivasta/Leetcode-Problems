@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1219-path-with-maximum-gold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1222-queens-that-can-attack-the-king) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1470-shuffle-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0966-vowel-spellchecker) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Greedy
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Doubly-Linked List
 |  |
 | ------- |
