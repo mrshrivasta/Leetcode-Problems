@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0473-matchsticks-to-square) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
