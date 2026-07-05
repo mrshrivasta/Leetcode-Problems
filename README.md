@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
+| [0457-circular-array-loop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0473-matchsticks-to-square) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0447-number-of-boomerangs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0457-circular-array-loop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
