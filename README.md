@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0874-walking-robot-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0879-profitable-schemes) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0879-profitable-schemes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
