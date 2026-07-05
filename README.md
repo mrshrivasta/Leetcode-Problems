@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0477-total-hamming-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0477-total-hamming-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
+| [0477-total-hamming-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0861-score-after-flipping-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0861-score-after-flipping-matrix) |
