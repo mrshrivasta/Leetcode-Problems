@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0952-largest-component-size-by-common-factor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
