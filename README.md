@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0932-beautiful-array) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 ## Geometry
@@ -761,10 +766,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 ## Sweep Line
 |  |
