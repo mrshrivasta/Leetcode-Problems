@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
+| [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0851-loud-and-rich) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0952-largest-component-size-by-common-factor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
