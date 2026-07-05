@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0330-patching-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0475-heaters) |
