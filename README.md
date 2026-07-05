@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0849-maximize-distance-to-closest-person](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0851-loud-and-rich) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
+| [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0879-profitable-schemes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Reservoir Sampling
