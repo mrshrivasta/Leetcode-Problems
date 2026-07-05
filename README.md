@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0870-advantage-shuffle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0874-walking-robot-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0957-prison-cells-after-n-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
