@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0518-coin-change-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [0980-unique-paths-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
