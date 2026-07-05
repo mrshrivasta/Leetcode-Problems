@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0861-score-after-flipping-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0861-score-after-flipping-matrix) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
