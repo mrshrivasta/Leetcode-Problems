@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
+| [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1000-minimum-cost-to-merge-stones) |
