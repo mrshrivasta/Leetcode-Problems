@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -704,10 +706,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 ## Sweep Line
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 | [0986-interval-list-intersections](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0986-interval-list-intersections) |
 ## Game Theory
 |  |
