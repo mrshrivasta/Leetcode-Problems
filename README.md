@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0789-escape-the-ghosts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0789-escape-the-ghosts) |
 | [0794-valid-tic-tac-toe-state](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0794-valid-tic-tac-toe-state) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
+| [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
 | [0789-escape-the-ghosts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0789-escape-the-ghosts) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
+| [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
 | [0861-score-after-flipping-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0861-score-after-flipping-matrix) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
 | [0794-valid-tic-tac-toe-state](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
