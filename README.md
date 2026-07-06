@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0406-queue-reconstruction-by-height](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0419-battleships-in-a-board) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0406-queue-reconstruction-by-height](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -988,12 +990,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
