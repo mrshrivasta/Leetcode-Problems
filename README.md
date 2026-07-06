@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0773-sliding-puzzle) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0857-minimum-cost-to-hire-k-workers) |
