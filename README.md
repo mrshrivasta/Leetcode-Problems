@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0775-global-and-local-inversions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0775-global-and-local-inversions) |
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
+| [0775-global-and-local-inversions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0775-global-and-local-inversions) |
 | [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
 | [0789-escape-the-ghosts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0789-escape-the-ghosts) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
