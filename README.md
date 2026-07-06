@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
+| [0679-24-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0679-24-game) |
 | [0775-global-and-local-inversions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0775-global-and-local-inversions) |
 | [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
 | [0789-escape-the-ghosts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0789-escape-the-ghosts) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0679-24-game) |
 | [0773-sliding-puzzle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0773-sliding-puzzle) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [0980-unique-paths-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
