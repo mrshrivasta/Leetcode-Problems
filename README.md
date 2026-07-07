@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0137-single-number-ii) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
