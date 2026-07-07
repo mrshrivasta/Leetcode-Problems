@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
