@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0427-construct-quad-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0427-construct-quad-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
