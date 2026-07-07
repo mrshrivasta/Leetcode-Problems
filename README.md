@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0330-patching-array) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0427-construct-quad-tree) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0284-peeking-iterator) |
+| [0307-range-sum-query-mutable](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0641-design-circular-deque](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 ## Randomized
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1065,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
