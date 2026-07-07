@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0641-design-circular-deque](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 ## Randomized
@@ -1116,4 +1118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0274-h-index) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
