@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0139-word-break) |
