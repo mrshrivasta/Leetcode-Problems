@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0313-super-ugly-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0457-circular-array-loop) |
