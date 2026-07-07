@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0213-house-robber-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
