@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0956-tallest-billboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0956-tallest-billboard) |
 | [0957-prison-cells-after-n-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0957-prison-cells-after-n-days) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0966-vowel-spellchecker) |
 | [0978-longest-turbulent-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0956-tallest-billboard) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0978-longest-turbulent-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0937-reorder-data-in-log-files) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-vowel-spellchecker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0966-vowel-spellchecker) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
