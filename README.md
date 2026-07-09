@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [1473-paint-house-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1473-paint-house-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1473-paint-house-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1473-paint-house-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
