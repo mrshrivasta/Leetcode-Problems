@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1472-design-browser-history](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1472-design-browser-history) |
 | [1473-paint-house-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1473-paint-house-iii) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [1488-avoid-flood-in-the-city](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [1488-avoid-flood-in-the-city](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1488-avoid-flood-in-the-city](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Backtracking
@@ -1137,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1267-count-servers-that-communicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search Tree
