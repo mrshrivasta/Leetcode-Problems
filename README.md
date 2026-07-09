@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
