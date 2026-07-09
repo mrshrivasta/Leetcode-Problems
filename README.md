@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Divide and Conquer
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0986-interval-list-intersections) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Trie
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -1066,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Bitmask
