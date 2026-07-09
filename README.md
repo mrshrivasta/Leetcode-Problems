@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1219-path-with-maximum-gold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1222-queens-that-can-attack-the-king) |
+| [1223-dice-roll-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1223-dice-roll-simulation) |
 | [1224-maximum-equal-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1224-maximum-equal-frequency) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1223-dice-roll-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1223-dice-roll-simulation) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
