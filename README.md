@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0410-split-array-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0419-battleships-in-a-board) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0475-heaters) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1118,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0525-contiguous-array) |
