@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
