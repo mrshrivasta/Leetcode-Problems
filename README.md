@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3861-minimum-capacity-box) |
+| [3866-first-unique-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3866-first-unique-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1199,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3866-first-unique-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## Binary Search Tree
 |  |
 | ------- |
