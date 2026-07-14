@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3861-minimum-capacity-box](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3861-minimum-capacity-box) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
