@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0137-single-number-ii) |
