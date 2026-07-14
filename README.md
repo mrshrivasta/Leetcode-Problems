@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3912-valid-elements-in-an-array) |
+| [3917-count-indices-with-opposite-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
