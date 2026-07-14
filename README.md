@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
