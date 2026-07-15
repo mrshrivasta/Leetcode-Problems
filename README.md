@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -1429,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Enumeration
 |  |
@@ -1436,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
