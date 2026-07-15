@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1286,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Bitmask
 |  |
