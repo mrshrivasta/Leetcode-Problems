@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
