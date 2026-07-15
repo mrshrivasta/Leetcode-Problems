@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
