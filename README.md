@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
@@ -1102,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Monotonic Stack
@@ -1135,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
