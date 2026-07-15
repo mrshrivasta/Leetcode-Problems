@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3452-sum-of-good-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -995,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1117,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
@@ -1176,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -1303,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
