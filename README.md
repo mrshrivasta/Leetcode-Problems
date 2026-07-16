@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3200-maximum-height-of-a-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3206-alternating-groups-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3206-alternating-groups-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
