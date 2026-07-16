@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3379-transformed-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3379-transformed-array) |
