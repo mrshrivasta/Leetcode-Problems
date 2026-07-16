@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
