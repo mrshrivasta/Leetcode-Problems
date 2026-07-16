@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2965-find-missing-and-repeated-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2974-minimum-number-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2965-find-missing-and-repeated-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3046-split-the-array) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
+| [2965-find-missing-and-repeated-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3033-modify-the-matrix) |
 | [3127-make-a-square-with-the-same-color](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
