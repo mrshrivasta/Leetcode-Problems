@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3127-make-a-square-with-the-same-color](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3206-alternating-groups-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
