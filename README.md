@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2974-minimum-number-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1541,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3200-maximum-height-of-a-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3200-maximum-height-of-a-triangle) |
