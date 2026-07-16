@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+| [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3033-modify-the-matrix) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3046-split-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3046-split-the-array) |
@@ -1244,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
 | [2974-minimum-number-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
@@ -1409,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
