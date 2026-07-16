@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
