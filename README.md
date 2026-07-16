@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2974-minimum-number-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2974-minimum-number-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3024-type-of-triangle) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
+| [2974-minimum-number-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
@@ -1227,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
+| [2974-minimum-number-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
