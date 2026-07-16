@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3200-maximum-height-of-a-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3206-alternating-groups-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3206-alternating-groups-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
@@ -1477,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
+| [3200-maximum-height-of-a-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
