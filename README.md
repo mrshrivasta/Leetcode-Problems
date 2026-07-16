@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3127-make-a-square-with-the-same-color](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
