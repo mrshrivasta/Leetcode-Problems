@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2670-find-the-distinct-difference-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2706-buy-two-chocolates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
@@ -1291,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2717-semi-ordered-permutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2717-semi-ordered-permutation) |
 | [2899-last-visited-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2899-last-visited-integers) |
