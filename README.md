@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2765-longest-alternating-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2765-longest-alternating-subarray) |
 | [2784-check-if-array-is-good](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3206-alternating-groups-i) |
