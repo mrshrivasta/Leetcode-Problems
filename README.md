@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
