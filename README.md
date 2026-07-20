@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2562-find-the-array-concatenation-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
