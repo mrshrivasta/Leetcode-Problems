@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2899-last-visited-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2899-last-visited-integers) |
