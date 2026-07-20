@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -1532,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Sweep Line
 |  |
