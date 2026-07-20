@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2574-left-and-right-sum-differences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2639-find-the-width-of-columns-of-a-grid) |
@@ -1477,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
