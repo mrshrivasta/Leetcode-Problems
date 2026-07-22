@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -1388,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
