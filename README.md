@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
