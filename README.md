@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
+| [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -1309,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2917-find-the-k-or-of-an-array) |
