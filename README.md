@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -1410,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -1732,6 +1734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
