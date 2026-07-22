@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
+| [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1768,6 +1770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
+| [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
