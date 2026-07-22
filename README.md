@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
