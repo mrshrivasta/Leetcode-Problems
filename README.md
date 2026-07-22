@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1640-check-array-formation-through-concatenation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1652-defuse-the-bomb](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1656-design-an-ordered-stream](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
