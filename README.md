@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2248-intersection-of-multiple-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-min-max-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2248-intersection-of-multiple-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2347-best-poker-hand) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2248-intersection-of-multiple-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2363-merge-similar-items) |
@@ -1512,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2248-intersection-of-multiple-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
