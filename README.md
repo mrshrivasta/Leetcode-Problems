@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
