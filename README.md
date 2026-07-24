@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1720-decode-xored-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1720-decode-xored-array) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
