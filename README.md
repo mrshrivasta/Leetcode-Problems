@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
