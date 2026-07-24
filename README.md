@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
