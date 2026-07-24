@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1720-decode-xored-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1854-maximum-population-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -1615,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1854-maximum-population-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1665,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1854-maximum-population-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
