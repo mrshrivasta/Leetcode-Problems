@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1720-decode-xored-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1920-build-array-from-permutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1701-average-waiting-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1701-average-waiting-time) |
+| [1920-build-array-from-permutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
