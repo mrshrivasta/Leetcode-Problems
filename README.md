@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1534-count-good-triplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1560-most-visited-sector-in-a-circular-track) |
@@ -1852,6 +1853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
+| [1534-count-good-triplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
