@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
