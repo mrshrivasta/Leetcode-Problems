@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1472-design-browser-history](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1472-design-browser-history) |
 | [1473-paint-house-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1473-paint-house-iii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -1343,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Heap (Priority Queue)
@@ -1529,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
