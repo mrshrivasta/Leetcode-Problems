@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1720-decode-xored-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
@@ -1343,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1720-decode-xored-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
