@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1854-maximum-population-year) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-stone-game-vii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1690-stone-game-vii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
