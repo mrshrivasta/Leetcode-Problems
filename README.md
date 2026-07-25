@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0954-array-of-doubled-pairs) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
@@ -1499,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1219-path-with-maximum-gold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1222-queens-that-can-attack-the-king) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1835,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Graph Theory
