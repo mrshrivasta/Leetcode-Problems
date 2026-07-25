@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-sum-of-subsequence-widths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0908-smallest-range-i) |
@@ -1503,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0883-projection-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0931-minimum-falling-path-sum) |
@@ -1843,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
+| [0883-projection-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1232-check-if-it-is-a-straight-line) |
