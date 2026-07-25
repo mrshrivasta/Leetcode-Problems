@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
@@ -1377,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
@@ -1580,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
