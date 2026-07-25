@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
@@ -1777,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0724-find-pivot-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
