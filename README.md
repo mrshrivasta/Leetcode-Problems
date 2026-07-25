@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0609-find-duplicate-file-in-system) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0480-sliding-window-median) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -1258,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1751,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
