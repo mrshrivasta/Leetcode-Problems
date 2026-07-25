@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0636-exclusive-time-of-functions) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0679-24-game) |
 | [0775-global-and-local-inversions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0775-global-and-local-inversions) |
@@ -1254,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0645-set-mismatch) |
