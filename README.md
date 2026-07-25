@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
+| [0812-largest-triangle-area](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0789-escape-the-ghosts) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
+| [0812-largest-triangle-area](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
@@ -1863,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
+| [0812-largest-triangle-area](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
