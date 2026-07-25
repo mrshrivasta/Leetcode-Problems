@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
