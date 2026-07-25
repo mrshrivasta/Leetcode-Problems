@@ -1069,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3803-count-residue-prefixes) |
+| [3813-vowel-consonant-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3856-trim-trailing-vowels) |
@@ -1743,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
+| [3813-vowel-consonant-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
