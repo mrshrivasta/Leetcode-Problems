@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -1254,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0954-array-of-doubled-pairs) |
+| [1051-height-checker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
@@ -1989,6 +1991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
