@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -1529,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0427-construct-quad-tree) |
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0773-sliding-puzzle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
