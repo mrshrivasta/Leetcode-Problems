@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3798-largest-even-number) |
@@ -1885,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
