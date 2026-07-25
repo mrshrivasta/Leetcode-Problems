@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0217-contains-duplicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0229-majority-element-ii) |
