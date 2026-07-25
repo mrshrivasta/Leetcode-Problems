@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3838-weighted-word-mapping](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3861-minimum-capacity-box) |
@@ -1060,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [3838-weighted-word-mapping](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3921-score-validator) |
@@ -1728,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3921-score-validator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
