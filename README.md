@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1089-duplicate-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1184-distance-between-bus-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1184-distance-between-bus-stops) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0986-interval-list-intersections) |
+| [1089-duplicate-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
