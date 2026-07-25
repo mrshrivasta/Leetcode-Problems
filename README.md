@@ -996,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3803-count-residue-prefixes) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
@@ -1584,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 |  |
 | ------- |
