@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0773-sliding-puzzle) |
@@ -1506,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0782-transform-to-chessboard) |
