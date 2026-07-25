@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0575-distribute-candies) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0561-array-partition](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
@@ -2037,6 +2040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Iterator
