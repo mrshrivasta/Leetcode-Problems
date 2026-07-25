@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
@@ -1167,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0954-array-of-doubled-pairs) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
