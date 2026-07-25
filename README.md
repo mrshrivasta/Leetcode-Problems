@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0506-relative-ranks) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0636-exclusive-time-of-functions) |
@@ -1596,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
