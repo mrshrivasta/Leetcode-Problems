@@ -906,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0382-linked-list-random-node](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0641-design-circular-deque](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0641-design-circular-deque) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -1987,6 +1989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 ## Ordered Set
@@ -2138,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Brainteaser
 |  |
