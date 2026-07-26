@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3379-transformed-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3386-button-with-longest-push-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3386-button-with-longest-push-time) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3206-alternating-groups-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
@@ -1965,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
