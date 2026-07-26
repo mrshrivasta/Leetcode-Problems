@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -1749,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
