@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0432-all-oone-data-structure](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0447-number-of-boomerangs) |
@@ -1999,6 +2002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0963-minimum-area-rectangle-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -2060,6 +2064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 | [0986-interval-list-intersections](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0986-interval-list-intersections) |
 ## Game Theory
