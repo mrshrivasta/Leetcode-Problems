@@ -1015,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -1362,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
