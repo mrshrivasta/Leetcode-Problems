@@ -289,7 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
-| [0994-rotting-oranges](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -327,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
@@ -471,7 +472,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
-| [2553-separate-the-digits-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
+| [3248-snake-in-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3379-transformed-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3386-button-with-longest-push-time](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3386-button-with-longest-push-time) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2540-minimum-common-value) |
@@ -839,6 +842,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -848,10 +853,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
@@ -898,7 +907,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
@@ -1005,6 +1016,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1085,6 +1098,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3136-valid-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3136-valid-word) |
+| [3146-permutation-difference-between-two-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3174-clear-digits) |
+| [3210-find-the-encrypted-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3210-find-the-encrypted-string) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3248-snake-in-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3248-snake-in-matrix) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3280-convert-date-to-binary) |
+| [3330-find-the-original-typed-string-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3330-find-the-original-typed-string-i) |
+| [3340-check-balanced-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3340-check-balanced-string) |
+| [3407-substring-matching-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3407-substring-matching-pattern) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3456-find-special-substring-of-length-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3456-find-special-substring-of-length-k) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3582-generate-tag-for-video-caption](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -1320,8 +1354,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
@@ -1449,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -1516,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3174-clear-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1568,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3407-substring-matching-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3407-substring-matching-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1659,7 +1698,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
-| [0994-rotting-oranges](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1222-queens-that-can-attack-the-king) |
@@ -1750,7 +1788,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
-| [2553-separate-the-digits-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -1763,13 +1800,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
+| [3248-snake-in-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3582-generate-tag-for-video-caption](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3813-vowel-consonant-score) |
@@ -1799,7 +1839,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
-| [0994-rotting-oranges](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
@@ -1918,7 +1957,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
@@ -1970,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -2147,6 +2191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3127-make-a-square-with-the-same-color](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3200-maximum-height-of-a-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3200-maximum-height-of-a-triangle) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
