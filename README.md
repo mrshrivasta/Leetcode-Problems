@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3582-generate-tag-for-video-caption](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
@@ -1451,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -1919,6 +1923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
