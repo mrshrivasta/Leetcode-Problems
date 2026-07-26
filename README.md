@@ -1097,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
+| [3174-clear-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3210-find-the-encrypted-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3248-snake-in-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3248-snake-in-matrix) |
@@ -1546,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3174-clear-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1792,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3242-design-neighbor-sum-service](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3242-design-neighbor-sum-service) |
 | [3248-snake-in-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
