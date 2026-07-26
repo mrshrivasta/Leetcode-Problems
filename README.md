@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1652-defuse-the-bomb](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
@@ -1535,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
@@ -2002,6 +2005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2363-merge-similar-items](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2363-merge-similar-items) |
 | [3477-fruits-into-baskets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -2091,6 +2095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -2101,6 +2106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1696-jump-game-vi) |
 ## Number Theory
