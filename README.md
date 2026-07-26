@@ -1108,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
+| [2833-furthest-point-from-origin](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2864-maximum-odd-binary-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1975,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3046-split-the-array) |
