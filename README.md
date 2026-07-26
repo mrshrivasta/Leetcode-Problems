@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2717-semi-ordered-permutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2717-semi-ordered-permutation) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2765-longest-alternating-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2815-max-pair-sum-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2848-points-that-intersect-with-cars) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2833-furthest-point-from-origin) |
@@ -1821,6 +1824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2717-semi-ordered-permutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2717-semi-ordered-permutation) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2899-last-visited-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
