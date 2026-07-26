@@ -1097,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [2451-odd-string-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2451-odd-string-difference) |
+| [3210-find-the-encrypted-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3210-find-the-encrypted-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3248-snake-in-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
