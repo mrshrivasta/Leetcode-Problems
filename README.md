@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3456-find-special-substring-of-length-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3456-find-special-substring-of-length-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1925,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
