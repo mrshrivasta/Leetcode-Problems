@@ -1086,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [3582-generate-tag-for-video-caption](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -1769,6 +1770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3582-generate-tag-for-video-caption](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3813-vowel-consonant-score) |
