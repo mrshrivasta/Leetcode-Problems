@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
