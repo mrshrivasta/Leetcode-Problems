@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2490-circular-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
@@ -1924,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
