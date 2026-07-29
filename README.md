@@ -1104,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [2315-count-asterisks](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
