@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0773-sliding-puzzle) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0648-replace-words) |
 | [0691-stickers-to-spell-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0917-reverse-only-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
