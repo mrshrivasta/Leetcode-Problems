@@ -1110,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -1358,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
@@ -2195,6 +2197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2765-longest-alternating-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2765-longest-alternating-subarray) |
