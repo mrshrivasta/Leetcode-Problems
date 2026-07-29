@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2937-make-three-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2937-make-three-strings-equal) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
@@ -1613,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -1917,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
