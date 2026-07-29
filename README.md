@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2490-circular-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
