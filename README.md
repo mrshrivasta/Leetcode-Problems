@@ -1125,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1678-goal-parser-interpretation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
