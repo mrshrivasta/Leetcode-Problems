@@ -1155,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
+| [1332-remove-palindromic-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1332-remove-palindromic-subsequences) |
 | [1360-number-of-days-between-two-dates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -1365,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0986-interval-list-intersections) |
+| [1332-remove-palindromic-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
