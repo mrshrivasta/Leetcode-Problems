@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -1966,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1854-maximum-population-year) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
