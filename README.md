@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -2101,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
