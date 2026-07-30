@@ -1034,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0966-vowel-spellchecker) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1002-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1154-day-of-the-year) |
