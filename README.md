@@ -1013,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0553-optimal-division) |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0504-base-7](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
