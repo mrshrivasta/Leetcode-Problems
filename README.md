@@ -1146,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0917-reverse-only-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0937-reorder-data-in-log-files) |
 | [0942-di-string-match](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0942-di-string-match) |
@@ -1376,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
+| [0925-long-pressed-name](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
