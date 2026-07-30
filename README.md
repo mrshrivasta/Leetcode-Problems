@@ -1120,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1805-number-of-different-integers-in-a-string) |
