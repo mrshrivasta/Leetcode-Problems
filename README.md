@@ -1039,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1360-number-of-days-between-two-dates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1154,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
+| [1360-number-of-days-between-two-dates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
