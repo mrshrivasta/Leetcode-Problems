@@ -1116,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
