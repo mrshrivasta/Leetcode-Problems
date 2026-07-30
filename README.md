@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
+| [0929-unique-email-addresses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0932-beautiful-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0932-beautiful-array) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0923-3sum-with-multiplicity) |
+| [0929-unique-email-addresses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-largest-component-size-by-common-factor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0917-reverse-only-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0937-reorder-data-in-log-files) |
 | [0942-di-string-match](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
