@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1816-truncate-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1816-truncate-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
