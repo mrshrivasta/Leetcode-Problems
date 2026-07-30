@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
@@ -1139,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1528-shuffle-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1592-rearrange-spaces-between-words) |
