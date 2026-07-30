@@ -1127,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
