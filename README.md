@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1408-string-matching-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1425-constrained-subsequence-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
@@ -1152,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
+| [1408-string-matching-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1417-reformat-the-string) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -1717,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Bit Manipulation
