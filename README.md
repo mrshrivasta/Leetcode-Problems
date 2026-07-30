@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0500-keyboard-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0518-coin-change-ii) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0500-keyboard-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
