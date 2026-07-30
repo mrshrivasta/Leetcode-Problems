@@ -1120,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0551-student-attendance-record-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0609-find-duplicate-file-in-system) |
