@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
 | [1488-avoid-flood-in-the-city](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
+| [1496-path-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1496-path-crossing) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1562-find-latest-group-of-size-m](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1562-find-latest-group-of-size-m) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1496-path-crossing](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1544-make-the-string-great) |
