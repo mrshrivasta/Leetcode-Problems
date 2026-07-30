@@ -1104,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [0394-decode-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1711,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0385-mini-parser](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0385-mini-parser) |
+| [0394-decode-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
