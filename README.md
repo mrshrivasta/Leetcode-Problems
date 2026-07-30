@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -1119,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1487-making-file-names-unique) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1816-truncate-sentence) |
@@ -1980,6 +1982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1854-maximum-population-year](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
