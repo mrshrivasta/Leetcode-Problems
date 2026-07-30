@@ -1152,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
@@ -2027,6 +2028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0529-minesweeper) |
@@ -2057,6 +2059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -2089,6 +2092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0427-construct-quad-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0427-construct-quad-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0690-employee-importance) |
@@ -2104,6 +2108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -2189,6 +2194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
@@ -2250,6 +2256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0641-design-circular-deque](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1472-design-browser-history) |
