@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [0937-reorder-data-in-log-files](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0937-reorder-data-in-log-files) |
 | [0941-valid-mountain-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0941-valid-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0948-bag-of-tokens) |
@@ -1121,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0917-reverse-only-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [0937-reorder-data-in-log-files](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0937-reorder-data-in-log-files) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
