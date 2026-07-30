@@ -1009,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0385-mini-parser) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -1777,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0393-utf-8-validation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0393-utf-8-validation) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0473-matchsticks-to-square](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0491-non-decreasing-subsequences) |
