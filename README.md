@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-minimum-cost-to-reach-every-position](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3527-find-the-most-common-response](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3527-find-the-most-common-response](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2937-make-three-strings-equal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2937-make-three-strings-equal) |
+| [3527-find-the-most-common-response](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3527-find-the-most-common-response) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -2155,6 +2158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3467-transform-array-by-parity](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3527-find-the-most-common-response](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/3692-majority-frequency-characters) |
