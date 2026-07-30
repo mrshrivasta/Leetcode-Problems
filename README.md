@@ -1202,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1417-reformat-the-string) |
@@ -1821,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1720-decode-xored-array) |
@@ -1959,6 +1961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1560-most-visited-sector-in-a-circular-track) |
