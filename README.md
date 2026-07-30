@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -1127,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0385-mini-parser) |
+| [0392-is-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1371,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0475-heaters) |
