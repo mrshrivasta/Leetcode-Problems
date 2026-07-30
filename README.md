@@ -1008,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0447-number-of-boomerangs) |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0385-mini-parser) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0433-minimum-genetic-mutation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0433-minimum-genetic-mutation) |
@@ -1914,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
