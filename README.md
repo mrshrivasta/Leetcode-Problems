@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
+| [0848-shifting-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0851-loud-and-rich) |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0848-shifting-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -2223,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
+| [0848-shifting-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
