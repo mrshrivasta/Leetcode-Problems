@@ -1196,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0816-ambiguous-coordinates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0820-short-encoding-of-words) |
 | [0824-goat-latin](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0824-goat-latin) |
@@ -1735,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0773-sliding-puzzle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0773-sliding-puzzle) |
+| [0816-ambiguous-coordinates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [0980-unique-paths-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
@@ -2450,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0816-ambiguous-coordinates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0816-ambiguous-coordinates) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0949-largest-time-for-given-digits) |
 | [1534-count-good-triplets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1534-count-good-triplets) |
