@@ -1043,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0224-basic-calculator) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
