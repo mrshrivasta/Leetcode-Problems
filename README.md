@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
@@ -1205,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
