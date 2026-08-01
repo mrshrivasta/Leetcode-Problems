@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0809-expressive-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0811-subdomain-visit-count) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
@@ -1198,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0809-expressive-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0819-most-common-word) |
@@ -1448,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0809-expressive-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0838-push-dominoes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0838-push-dominoes) |
