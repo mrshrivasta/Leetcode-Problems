@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0843-guess-the-word) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
+| [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0854-k-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0859-buddy-strings) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0843-guess-the-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0848-shifting-letters) |
@@ -2054,6 +2057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0854-k-similar-strings) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
@@ -2085,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0690-employee-importance) |
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0851-loud-and-rich](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0851-loud-and-rich) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
@@ -2141,6 +2146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0952-largest-component-size-by-common-factor](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
