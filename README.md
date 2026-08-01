@@ -1170,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0214-shortest-palindrome](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -1871,6 +1872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
@@ -2563,9 +2565,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
 ## Interactive
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0843-guess-the-word) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
