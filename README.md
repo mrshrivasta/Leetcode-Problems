@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
@@ -2092,6 +2094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0415-add-strings) |
