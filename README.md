@@ -1263,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0843-guess-the-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0843-guess-the-word) |
+| [0844-backspace-string-compare](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0859-buddy-strings) |
@@ -1506,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0838-push-dominoes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
@@ -1834,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0946-validate-stack-sequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -2076,6 +2079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0946-validate-stack-sequences) |
