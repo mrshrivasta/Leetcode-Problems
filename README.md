@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
+| [0838-push-dominoes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -1187,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0838-push-dominoes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0843-guess-the-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0843-guess-the-word) |
@@ -1429,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
+| [0838-push-dominoes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
