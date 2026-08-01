@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0854-k-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0859-buddy-strings) |
 | [0874-walking-robot-simulation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -1181,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0854-k-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
@@ -2045,6 +2047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0827-making-a-large-island) |
+| [0854-k-similar-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0854-k-similar-strings) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0994-rotting-oranges) |
