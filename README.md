@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
+| [0820-short-encoding-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0820-short-encoding-of-words) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
+| [0820-short-encoding-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0820-short-encoding-of-words) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0833-find-and-replace-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0833-find-and-replace-in-string) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0820-short-encoding-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0820-short-encoding-of-words) |
 | [0824-goat-latin](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0824-goat-latin) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0830-positions-of-large-groups) |
@@ -1487,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0820-short-encoding-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0820-short-encoding-of-words) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1268-search-suggestions-system) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/2932-maximum-strong-pair-xor-i) |
