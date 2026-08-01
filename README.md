@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0091-decode-ways) |
@@ -1184,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0091-decode-ways) |
