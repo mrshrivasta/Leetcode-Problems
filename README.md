@@ -1050,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0072-edit-distance) |
@@ -1938,6 +1940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0090-subsets-ii) |
@@ -2094,6 +2097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0412-fizz-buzz) |
