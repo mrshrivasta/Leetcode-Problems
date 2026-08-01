@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0813-largest-sum-of-averages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0838-push-dominoes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0833-find-and-replace-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0833-find-and-replace-in-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0833-find-and-replace-in-string) |
