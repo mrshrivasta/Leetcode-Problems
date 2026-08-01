@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0823-binary-trees-with-factors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
@@ -1254,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0824-goat-latin) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0830-positions-of-large-groups) |
@@ -1504,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0809-expressive-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0838-push-dominoes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0838-push-dominoes) |
