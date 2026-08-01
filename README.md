@@ -1040,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0313-super-ugly-number) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0486-predict-the-winner) |
@@ -1168,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0224-basic-calculator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -1786,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0385-mini-parser](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0394-decode-string) |
