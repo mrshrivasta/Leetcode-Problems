@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
+| [0806-number-of-lines-to-write-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0810-chalkboard-xor-game](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0810-chalkboard-xor-game) |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0806-number-of-lines-to-write-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0816-ambiguous-coordinates) |
