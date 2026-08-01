@@ -2654,5 +2654,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0262-trips-and-users](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0262-trips-and-users) |
 | [1068-product-sales-analysis-i](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
