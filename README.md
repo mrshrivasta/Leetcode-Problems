@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0803-bricks-falling-when-hit](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0803-bricks-falling-when-hit) |
+| [0804-unique-morse-code-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0815-bus-routes) |
@@ -1200,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0811-subdomain-visit-count) |
