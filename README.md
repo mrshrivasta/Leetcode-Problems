@@ -1180,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -1481,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0189-rotate-array) |
