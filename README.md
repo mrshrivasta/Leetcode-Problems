@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0120-triangle) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mrshrivasta/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
